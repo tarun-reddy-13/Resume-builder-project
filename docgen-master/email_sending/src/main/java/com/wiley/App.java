@@ -28,8 +28,8 @@ public class App
 
     public void sendEmail(String username,String to, String filepath) {
     	
-    	String from="ttr1322004@outlook.com";
-    	String password = "Nurat@13&2004";
+    	String from="sender outlook mail";
+    	String password = "sender outlook password";
     	System.out.println(username);
     	String host="outlook.office365.com";
     	Properties properties = System.getProperties();
